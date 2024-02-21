@@ -38,12 +38,17 @@ https://github.com/18OWAIS/eslintFixer/assets/116813362/9291da7e-25af-4cdb-a049-
 
 
 
-https://github.com/18OWAIS/eslintFixer/assets/116813362/fc53dde2-8acc-4777-9d30-c644e154ee4e
 
 
 
 ## For more information
 
 You can find more information about this extension on the [GitHub repository](https://github.com/18owais/eslintFixer).
+
+
+
+https://github.com/18OWAIS/eslintFixer/assets/116813362/ead61e8a-28b3-41a1-bfce-6d1452c150f0
+
+
 
 **Enjoy!**
